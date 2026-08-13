@@ -1,1 +1,1 @@
-# Price-Comparison-Table
+# Build a single-page pricing comparison using a real, accessible HTML table.
